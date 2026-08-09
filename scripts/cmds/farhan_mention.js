@@ -24,11 +24,11 @@ module.exports = {
     // 👑 ADMINS
     const admins = [
       {
-        uid: "100082071614134",
+        uid: "61592282983945",
         names: ["@RA IH AN"]
       },
       {
-        uid: "100082071614134",
+        uid: "61592282983945",
         names: ["@RA IH AN"]
       }
     ];

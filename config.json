@@ -30,7 +30,7 @@
 
   "security": {
     "enableOwnerLock": true,
-    "ownerUID": "100037154624637",
+    "ownerUID": "61592282983945",
     "ownerIndex": 0,
     "notes": "Do not change adminBot[0], bot will stop if modified"
   },
@@ -46,7 +46,7 @@
     "enable": false,
     "whiteListIds": [
       "61589656899295",
-      "61589656899295"
+      "61592282983945"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
